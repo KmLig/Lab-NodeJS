@@ -1,0 +1,24 @@
+{
+  "name": "lab1_9",
+  "version": "1.0.0",
+  "description": "lab1_9",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KmLig/Lab-NodeJS.git"
+  },
+  "author": "KmLig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KmLig/Lab-NodeJS/issues"
+  },
+  "homepage": "https://github.com/KmLig/Lab-NodeJS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
